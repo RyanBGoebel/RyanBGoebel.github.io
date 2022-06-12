@@ -11,7 +11,7 @@
 <img src="images/ThinFabric_bargraph.png" 
      height="200"/>
      
-[Project Presentation](/pdf/ALY6040_BeanProject_GoebelPrzybylowicz.pdf)
+[View the Project Presentation Slides](/pdf/ALY6040_BeanProject_GoebelPrzybylowicz.pdf)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
