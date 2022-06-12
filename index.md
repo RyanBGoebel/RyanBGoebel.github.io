@@ -4,13 +4,11 @@
 
 ### Product Improvement Opportunities from E-Commerce Reviews
 
-<img src="images/BeanBoot.png" 
-     height="200"/>
 <img src="images/PosVsNeg.png" 
      height="200"/>
+<img src="images/BeanBoot.png" 
+     height="200"/>
 <img src="images/ThinFabric_bargraph.png" 
-     height="200"/><br>
-<img src="images/Top25PosAndNeg.png" 
      height="200"/>
      
 [Project Presentation](/pdf/ALY6040_BeanProject_GoebelPrzybylowicz.pdf)
