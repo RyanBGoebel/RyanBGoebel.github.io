@@ -2,7 +2,7 @@
 
 ---
 
-### [Product Improvement Opportunities from E-Commerce Reviews](/pdf/ALY6040_BeanProject_GoebelPrzybylowicz.pdf)
+### [Product Improvement Opportunities from E-Commerce Reviews](https://github.com/RyanBGoebel/aly6040finalproject)
 
 <img src="images/PosVsNeg.png" 
      height="200"/>
