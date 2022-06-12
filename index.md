@@ -2,7 +2,7 @@
 
 ---
 
-### Product Improvement Opportunities from E-Commerce Reviews
+### [Product Improvement Opportunities from E-Commerce Reviews](/pdf/ALY6040_BeanProject_GoebelPrzybylowicz.pdf)
 
 <img src="images/PosVsNeg.png" 
      height="200"/>
@@ -11,7 +11,7 @@
 <img src="images/ThinFabric_bargraph.png" 
      height="200"/>
      
-[View the Project Presentation and R Code](https://github.com/RyanBGoebel/aly6040finalproject)
+[View the Project Presentation Slides](/pdf/ALY6040_BeanProject_GoebelPrzybylowicz.pdf)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
