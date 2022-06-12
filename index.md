@@ -9,9 +9,9 @@
      height="200"/>
 <img src="images/PosVsNeg.png" 
      height="200"/>
-<img src="images/Top25PosAndNeg.png" 
-     height="200"/>
 <img src="images/ThinFabric_bargraph.png" 
+     height="200"/><br>
+<img src="images/Top25PosAndNeg.png" 
      height="200"/>
 
 ---
