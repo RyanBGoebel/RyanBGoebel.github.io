@@ -2,11 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Product Improvement Opportunities from E-Commerce Reviews
 
 [Project 1 Title](/Ecommerce_Product_Improvement_Opportunities)
 <img src="images/BeanBoot.png" 
-     width="400"/>
+     height="200"/>
+<img src="images/PosVsNeg.png" 
+     height="200"/>
+<img src="images/Top25PosAndNeg.png" 
+     height="200"/>
+<img src="images/ThinFabric_bargraph.png" 
+     height="200"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
