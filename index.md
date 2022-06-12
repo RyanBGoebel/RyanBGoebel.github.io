@@ -6,8 +6,6 @@
 
 <img src="images/PosVsNeg.png" 
      height="200"/>
-<img src="images/BeanBoot.png" 
-     height="200"/>
 <img src="images/ThinFabric_bargraph.png" 
      height="200"/>
 
