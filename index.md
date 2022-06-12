@@ -5,7 +5,8 @@
 ### Category Name 1 
 
 [Project 1 Title](/Ecommerce_Product_Improvement_Opportunities)
-<img src="images/BeanBoot.png?raw=true"/>
+<img src="images/BeanBoot.png" 
+     width="400"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
