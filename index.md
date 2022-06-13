@@ -11,16 +11,14 @@
 
 ---
 
-### [Dashboard to Analyze Digital vs. Physical Checkouts](https://github.com/RyanBGoebel/SPLdashboards)
-
-<img src="images/SPLtableau.png" 
-     height="200"/>
-
----
-
 ### [Computer Vision Classification Using Transfer Learning](https://github.com/RyanBGoebel/ButterflyImagesClassification)
 
 <img src="images/butterfly-classification.png" 
+     height="200"/>
+
+### [Dashboard to Analyze Digital vs. Physical Checkouts](https://github.com/RyanBGoebel/SPLdashboards)
+
+<img src="images/SPLtableau.png" 
      height="200"/>
 
 ---
