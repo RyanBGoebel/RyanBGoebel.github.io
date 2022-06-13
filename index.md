@@ -16,7 +16,12 @@
 <img src="images/SPLtableau.png" 
      height="200"/>
 
+---
 
+### [Computer Vision Classification Using Transfer Learning](https://github.com/RyanBGoebel/ButterflyImagesClassification)
+
+<img src="images/butterfly-classification.png" 
+     height="200"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
