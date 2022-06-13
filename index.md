@@ -11,7 +11,7 @@
 
 ---
 
-### [Identify Butterfly Species From Image](https://github.com/RyanBGoebel/ButterflyImagesClassification)
+### [Identify Butterfly Species From Images](https://github.com/RyanBGoebel/ButterflyImagesClassification)
 
 <img src="images/butterfly-classification.png" 
      height="200"/>
