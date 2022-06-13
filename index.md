@@ -9,7 +9,7 @@
 
 --- 
 
-## [Baking Soad Use Case Analysis From User Generated Content](https://github.com/RyanBGoebel/BakingSodaUseCases)
+## [Baking Soda Use Case Analysis From User Generated Content](https://github.com/RyanBGoebel/BakingSodaUseCases)
 
 <img src="images/before-after_pandemic.png" 
      height="200"/><br>
