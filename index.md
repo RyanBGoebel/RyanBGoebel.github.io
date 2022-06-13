@@ -1,8 +1,8 @@
-## Portfolio
+## My Portfolio
 
 ---
 
-### [Product Improvement Opportunities from E-Commerce Reviews](https://github.com/RyanBGoebel/aly6040finalproject)
+### [Product Improvement Opportunities from E-Commerce Reviews](https://github.com/RyanBGoebel/LLBeanReviews)
 
 <img src="images/PosVsNeg.png" 
      height="200"/>
@@ -11,7 +11,12 @@
 
 ---
 
+### [Dashboard to Analyze Digital vs. Physical Checkouts](https://github.com/RyanBGoebel/SPLdashboards)
 
+<img src="images/PosVsNeg.png" 
+     height="200"/>
+<img src="images/ThinFabric_bargraph.png" 
+     height="200"/>
 
 
 ---
