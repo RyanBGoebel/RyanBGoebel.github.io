@@ -15,6 +15,19 @@
 
 <img src="images/butterfly-classification.png" 
      height="200"/>
+     
+ --- 
+
+### [Baking Soad Use Case Analysis From User Generated Content](https://github.com/RyanBGoebel/BakingSodaUseCases)
+
+<img src="images/before-after_pandemic.png" 
+     height="200"/><br>
+<img src="images/hashtags_time.png" 
+     height="200"/>
+<img src="images/tophashtags.png" 
+     height="200"/>
+
+---
 
 ### [Dashboard to Analyze Digital vs. Physical Checkouts](https://github.com/RyanBGoebel/SPLdashboards)
 
