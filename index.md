@@ -13,10 +13,9 @@
 
 ### [Dashboard to Analyze Digital vs. Physical Checkouts](https://github.com/RyanBGoebel/SPLdashboards)
 
-<img src="images/PosVsNeg.png" 
+<img src="images/SPLtableau.png" 
      height="200"/>
-<img src="images/ThinFabric_bargraph.png" 
-     height="200"/>
+
 
 
 ---
