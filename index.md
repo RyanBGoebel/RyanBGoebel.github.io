@@ -2,6 +2,13 @@
 
 ---
 
+## [Predict and Compare Heating Oil and Electricity Prices in Maine](https://github.com/RyanBGoebel/MaineHeatingOilAndElectricityPricePredictions)
+
+<img src="images/comparison.png"
+     height="200"/>
+
+---
+
 ## [Identify Butterfly Species From Images](https://github.com/RyanBGoebel/ButterflyImagesClassification)
 
 <img src="images/butterfly-classification.png" 
